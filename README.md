@@ -1,1 +1,2 @@
 # physicsbhai
+small physics application
